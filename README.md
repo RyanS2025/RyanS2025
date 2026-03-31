@@ -8,5 +8,5 @@ I'm currently working on a **WNBA Stat Tracker** for exploring game results and 
 
 ### Connect with me
 - 🌐 [ryansinha.dev](https://ryansinha.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryansinha)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-sinha-306986387/)
 - ✉️ ryan@ryansinha.dev
