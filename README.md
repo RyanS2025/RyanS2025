@@ -4,7 +4,7 @@ I'm Ryan Sinha (he/him), a computer science and business administration student 
 
 Most recently, I was part of the team behind **[Lost & Hound](https://thelostandhound.com)** — a web app that gives the Northeastern community a single place to post, search, and recover lost items. It features a live feed, an interactive campus map, and built-in messaging so users can coordinate returns directly.
 
-I'm currently working on a **WNBA Stat Tracker** for exploring game results and player stats across the league.
+I'm currently working on  **PolicyPatrol**, an AI-powered chrome extension that analyzes, tracks, and rates terms & conditions based on customer friendliness and malicious policies.
 
 ### Connect with me
 - 🌐 [ryansinha.dev](https://ryansinha.dev)
